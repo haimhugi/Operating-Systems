@@ -1,3 +1,0 @@
-/home/haim/Homework/M1/students
-/home/haim/Homework/M1/setup/test_input.qa
-/home/haim/Homework/M1/setup/expected_output.qa
